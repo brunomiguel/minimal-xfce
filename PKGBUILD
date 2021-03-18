@@ -2,8 +2,8 @@
 
 pkgname=xfce-minimal
 pkgdesc="A minimal XFCE Desktop installation"
-pkgver='0.0.1'
-pkgrel=2
+pkgver=0.0.1
+pkgrel=3
 
 url='https://github.com/brunomiguel/minimal-xfce'
 arch=('any')

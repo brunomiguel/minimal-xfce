@@ -1,9 +1,9 @@
 # Maintainer: Bruno Miguel <https://twitter.com/brunomiguel>
 
-pkgname=xfce-minimal
+pkgname=minimal-xfce
 pkgdesc="A minimal XFCE Desktop installation"
 pkgver=0.0.1
-pkgrel=3
+pkgrel=4
 
 url='https://github.com/brunomiguel/minimal-xfce'
 arch=('any')

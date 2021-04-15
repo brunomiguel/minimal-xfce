@@ -11,6 +11,6 @@ license=('GPL3')
 
 depends=(
 	# xfce (somewhat minimal)
-	'xfwm4' 'xfwm4-themes' 'xfce4-whiskermenu-plugin' 'xfdesktop' 'xfconf' 'xfce4-weather-plugin' 'xfce4-taskmanager' 'xfce4-settings' 'xfce4-session' 'xfce4-pulseaudio-plugin' 'xfce4-notifyd' 'xfce4-datetime-plugin' 'xfce4-clipman-plugin' 'xfce4-wavelan-plugin' 'xfce4-screensaver' 'thunar' 'thunar-archive-plugin' 'thunar-volman' 'xfce4-appfinder' 'lightdm' 'lightdm-greeter-gtk' 'lightdm-greeter-gtk-settings'
+	'xfwm4' 'xfwm4-themes' 'xfce4-whiskermenu-plugin' 'xfdesktop' 'xfconf' 'xfce4-weather-plugin' 'xfce4-taskmanager' 'xfce4-settings' 'xfce4-session' 'xfce4-pulseaudio-plugin' 'xfce4-notifyd' 'xfce4-datetime-plugin' 'xfce4-clipman-plugin' 'xfce4-wavelan-plugin' 'xfce4-screensaver' 'thunar' 'thunar-archive-plugin' 'thunar-volman' 'xfce4-appfinder' 'lightdm' 'lightdm-gtk-greeter' 'lightdm-gtk-greeter-settings'
 )
 

@@ -1,6 +1,6 @@
 pkgbase = minimal-xfce
 	pkgdesc = A minimal XFCE Desktop installation
-	pkgver = 0.0.3
+	pkgver = 0.0.4
 	pkgrel = 1
 	url = https://github.com/brunomiguel/minimal-xfce
 	arch = any
@@ -23,5 +23,7 @@ pkgbase = minimal-xfce
 	depends = xfce4-appfinder
 	depends = nautilus
 	depends = picom-ibhagwan-git
+	depends = xfce-theme-manager
+	depends = xfce4-docklike-plugin
 
 pkgname = minimal-xfce
